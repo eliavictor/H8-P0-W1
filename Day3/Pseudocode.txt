@@ -1,0 +1,36 @@
+No. 1
+
+Start
+Input m
+Input a
+Count ΣF
+Write ΣF
+End
+
+No. 2
+
+Start
+Input year
+Count leapYear
+Write leapYear
+End
+
+No. 3
+
+Start
+Input clothes
+For Clothes = 0{
+	Clothes - 1
+}
+End
+
+No. 4
+
+Start
+Input Student
+For student = 0 {
+	Student - 1
+	If Student's nail = long, student get punished
+	Else Student gets a compliment
+}
+End
