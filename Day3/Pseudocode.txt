@@ -12,7 +12,8 @@ No. 2
 Start
 Input year
 Count leapYear
-Write leapYear
+If Year = leapYear, write Leap Year
+Else Write Not Leap Year
 End
 
 No. 3
