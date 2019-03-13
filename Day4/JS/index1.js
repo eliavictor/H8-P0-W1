@@ -1,4 +1,4 @@
-xvar name = "Bejo";
+var name = "Bejo";
 var role = "penyihir";
 
 if (name == ""){

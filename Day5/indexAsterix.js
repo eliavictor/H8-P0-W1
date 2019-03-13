@@ -1,4 +1,4 @@
-var rows = 3;
+var rows = 7;
 var a = "";
 var b = "";
 var c = "";
@@ -29,13 +29,15 @@ console.log("---Hasil no 3---")
 y = 1;
 z = 1;
 for (z; z <= rows; z++) {
+	for (y; y <= z; y++) {
 	b += btg;
 	console.log(b);
 }
-
-console.log("---Hasil no 3---")
-y = 1;
-for (z; z <= rows; z--) {
-	c += btg;
-	console.log(c);
 }
+
+// console.log("---Hasil no 3---")
+// y = 1;
+// for (z; z <= rows; z--) {
+// 	c += btg;
+// 	console.log(c);
+// }

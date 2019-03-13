@@ -3,7 +3,7 @@ No. 1
 Start
 Input m
 Input a
-Count ΣF
+ΣF = m divided a
 Write ΣF
 End
 
@@ -11,25 +11,29 @@ No. 2
 
 Start
 Input year
-Count leapYear
-If Year = leapYear, write Leap Year
-Else Write Not Leap Year
+leapYear = year mod 4 equals to 0 and year mod 100 not equals to 1 
+or
+leapYear = year mod 4 equals to 0 and year mod 100 equals to 0 and year mod 400 equatls to 0
+If year equals to leapYear, write 'Leap Year'
+Else write 'Not Leap Year'
 End
 
 No. 3
 
 Start
-Input clothes
-For Clothes = 0{
-	Clothes - 1
+clothes equals to 20
+i equals to 0
+While i < clothes{
+	write 'baju dimasukkan'
+	i++
 }
 End
 
 No. 4
 
 Start
-Input Student
-For student = 0 {
+Student equals to 40
+For i = 0 {
 	Student - 1
 	If Student's nail = long, student get punished
 	Else Student gets a compliment
